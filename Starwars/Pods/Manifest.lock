@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (5.4.2)
+  - AlamofireNetworkActivityLogger (3.4.0):
+    - Alamofire (~> 5.4.0)
+  - Resolver (1.4.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - AlamofireNetworkActivityLogger (~> 3.4)
+  - Resolver
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireNetworkActivityLogger
+    - Resolver
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  AlamofireNetworkActivityLogger: 162ab8aee00e6267a4304d7cc134e13ccfe3bcc5
+  Resolver: c293d0177cbc69fcb700cfd49922ae2122c1829c
+
+PODFILE CHECKSUM: 46389da78dc4cae95dbf0e54fc489a208d913892
+
+COCOAPODS: 1.10.2

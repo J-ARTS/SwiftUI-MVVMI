@@ -1,0 +1,6 @@
+framework module Pods_Starwars_StarwarsUITests {
+  umbrella header "Pods-Starwars-StarwarsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

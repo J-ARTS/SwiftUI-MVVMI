@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Starwars
+
+  Created by Jeremy Teichmann on 18.10.21.
+  
+*/
+
+"app-title" = "Starwars";
+
+
+"app-mass %@" = "Mass: %@";
+"app-gender %@" = "Gender: %@";
+"app-hairColor %@" = "Hair Color: %@";
+"app-height %@" = "Height: %@";
+
+"app-no-gender" = "n/a";
+"app-no-name" = "no name";
+"app-no-hairColor" = "n/a";
+"app-no-height" = "n/a";
+"app-no-mass" = "n/a";
